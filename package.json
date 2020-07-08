@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichaelAllenWarner/eth-util-lite.git"
+    "url": "git+https://github.com/near/eth-util-lite.git"
   },
   "keywords": [
     "Ethereum",
@@ -18,12 +18,14 @@
     "buffer"
   ],
   "author": "Michael Allen Warner",
-  "contributors": ["Zac Mitton"],
+  "contributors": [
+    "Zac Mitton"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MichaelAllenWarner/eth-util-lite/issues"
+    "url": "https://github.com/near/eth-util-lite/issues"
   },
-  "homepage": "https://github.com/MichaelAllenWarner/eth-util-lite#readme",
+  "homepage": "https://github.com/near/eth-util-lite#readme",
   "dependencies": {
     "bn.js": "^4.11.8",
     "js-sha3": "^0.8.0",
